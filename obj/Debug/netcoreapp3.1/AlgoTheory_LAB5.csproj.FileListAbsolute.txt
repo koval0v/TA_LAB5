@@ -1,0 +1,14 @@
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\bin\Debug\netcoreapp3.1\AlgoTheory_LAB5.exe
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\bin\Debug\netcoreapp3.1\AlgoTheory_LAB5.deps.json
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\bin\Debug\netcoreapp3.1\AlgoTheory_LAB5.runtimeconfig.json
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\bin\Debug\netcoreapp3.1\AlgoTheory_LAB5.runtimeconfig.dev.json
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\bin\Debug\netcoreapp3.1\AlgoTheory_LAB5.dll
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\bin\Debug\netcoreapp3.1\AlgoTheory_LAB5.pdb
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\obj\Debug\netcoreapp3.1\AlgoTheory_LAB5.csproj.AssemblyReference.cache
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\obj\Debug\netcoreapp3.1\AlgoTheory_LAB5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\obj\Debug\netcoreapp3.1\AlgoTheory_LAB5.AssemblyInfoInputs.cache
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\obj\Debug\netcoreapp3.1\AlgoTheory_LAB5.AssemblyInfo.cs
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\obj\Debug\netcoreapp3.1\AlgoTheory_LAB5.csproj.CoreCompileInputs.cache
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\obj\Debug\netcoreapp3.1\AlgoTheory_LAB5.dll
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\obj\Debug\netcoreapp3.1\AlgoTheory_LAB5.pdb
+C:\Users\UserPc\Desktop\AlgoTheory_LAB5\obj\Debug\netcoreapp3.1\AlgoTheory_LAB5.genruntimeconfig.cache
